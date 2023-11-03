@@ -1,0 +1,8 @@
+# ninja log v5
+1	22	1698832040098885107	sample_autogen/timestamp	22b62771507965a7
+1	22	1698832040098885107	sample_autogen/mocs_compilation.cpp	22b62771507965a7
+1	22	1698832040098885107	/home/max/dbus/sample/build-sample-Desktop-Debug/sample_autogen/timestamp	22b62771507965a7
+1	22	1698832040098885107	/home/max/dbus/sample/build-sample-Desktop-Debug/sample_autogen/mocs_compilation.cpp	22b62771507965a7
+22	31	1698832040112218042	CMakeFiles/sample.dir/sample_autogen/mocs_compilation.cpp.o	d2587f472006cbcb
+22	803	1698832040882195024	CMakeFiles/sample.dir/main.cpp.o	8150436f3e633344
+22	875	1698832040955526166	CMakeFiles/sample.dir/src/MyLib.cpp.o	b07a05fcbbc8de66

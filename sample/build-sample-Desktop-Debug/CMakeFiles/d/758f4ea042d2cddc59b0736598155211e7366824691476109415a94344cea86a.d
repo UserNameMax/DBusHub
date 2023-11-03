@@ -1,0 +1,34 @@
+sample_autogen/timestamp: \
+  .qtc/package-manager/auto-setup.cmake \
+  CMakeFiles/3.27.7/CMakeCXXCompiler.cmake \
+  CMakeFiles/3.27.7/CMakeSystem.cmake \
+  /home/max/dbus/sample/sample/CMakeLists.txt \
+  /home/max/dbus/sample/sample/include/MyLib.h \
+  /home/max/dbus/sample/sample/main.cpp \
+  /home/max/dbus/sample/sample/src/MyLib.cpp \
+  /usr/bin/cmake \
+  /usr/lib/cmake/Qt5/Qt5Config.cmake \
+  /usr/lib/cmake/Qt5/Qt5ConfigVersion.cmake \
+  /usr/lib/cmake/Qt5/Qt5ModuleLocation.cmake \
+  /usr/lib/cmake/Qt5Core/Qt5CoreConfig.cmake \
+  /usr/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake \
+  /usr/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake \
+  /usr/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake \
+  /usr/lib/cmake/Qt5Core/Qt5CoreMacros.cmake \
+  /usr/share/cmake/Modules/CMakeCXXInformation.cmake \
+  /usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake \
+  /usr/share/cmake/Modules/CMakeGenericSystem.cmake \
+  /usr/share/cmake/Modules/CMakeInitializeConfigs.cmake \
+  /usr/share/cmake/Modules/CMakeLanguageInformation.cmake \
+  /usr/share/cmake/Modules/CMakeParseArguments.cmake \
+  /usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake \
+  /usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake \
+  /usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+  /usr/share/cmake/Modules/Compiler/GNU-CXX.cmake \
+  /usr/share/cmake/Modules/Compiler/GNU.cmake \
+  /usr/share/cmake/Modules/GNUInstallDirs.cmake \
+  /usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake \
+  /usr/share/cmake/Modules/Platform/Linux-GNU.cmake \
+  /usr/share/cmake/Modules/Platform/Linux-Initialize.cmake \
+  /usr/share/cmake/Modules/Platform/Linux.cmake \
+  /usr/share/cmake/Modules/Platform/UnixPaths.cmake

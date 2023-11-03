@@ -1,0 +1,9 @@
+/home/max/dbus/sample/build-sample-Desktop-Debug/CMakeFiles/sample.dir
+/home/max/dbus/sample/build-sample-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/max/dbus/sample/build-sample-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/max/dbus/sample/build-sample-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/max/dbus/sample/build-sample-Desktop-Debug/CMakeFiles/install.dir
+/home/max/dbus/sample/build-sample-Desktop-Debug/CMakeFiles/install/local.dir
+/home/max/dbus/sample/build-sample-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/max/dbus/sample/build-sample-Desktop-Debug/CMakeFiles/sample_autogen_timestamp_deps.dir
+/home/max/dbus/sample/build-sample-Desktop-Debug/CMakeFiles/sample_autogen.dir
